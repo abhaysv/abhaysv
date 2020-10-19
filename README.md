@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abhaysv&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
-I'm Abhay SV, also known as DuskFawn.
+I'm Abhay SV, also known as **DuskFawn**.
 
 I'm an Electronics engineer with immense experience on a wide variety of software tools and real-life application-based projects. I'm also a backend developer.
 
