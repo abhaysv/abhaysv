@@ -6,7 +6,7 @@ I'm an Electronics engineer with immense experience on a wide variety of softwar
 
 - ⚡ My site: https://abhaysv.co.in
 - 💬 Discord: `Dusk_Fawn#1433`
-- 📫 Ping me by [Email](mailto:monu@abhaysv.co.in)
+- 📫 Ping me by [Email](mailto:hello@abhaysv.co.in)
 <!--
 **abhaysv/abhaysv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
