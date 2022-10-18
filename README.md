@@ -4,9 +4,9 @@ I'm Abhay SV, also known as <b>DuskFawn</b>.
 
 I'm an Electronics engineer with immense experience on a wide variety of software tools and real-life application-based projects. I'm also a backend developer.
 
-- ⚡ My site: https://abhaysv.co.in
+- ⚡ My site: https://abhaysv.com
 - 💬 Discord: `Dusk_Fawn#1433`
-- 📫 Ping me by Email: [hello@abhaysv.co.in](mailto:hello@abhaysv.co.in)
+- 📫 Ping me by Email: [hello@abhaysv.com](mailto:hello@abhaysv.com)
 <!--
 **abhaysv/abhaysv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
